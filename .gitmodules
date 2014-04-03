@@ -1,0 +1,36 @@
+[submodule "vim/.vim/bundle/fugitive"]
+	path = vim/.vim/bundle/fugitive
+	url = git://github.com/tpope/vim-fugitive.git
+[submodule "vim/.vim/bundle/nerdcommenter"]
+	path = vim/.vim/bundle/nerdcommenter
+	url = git://github.com/scrooloose/nerdcommenter.git
+[submodule "vim/.vim/bundle/rooter"]
+	path = vim/.vim/bundle/rooter
+	url = git://github.com/airblade/vim-rooter.git
+[submodule "vim/.vim/bundle/surround"]
+	path = vim/.vim/bundle/surround
+	url = git://github.com/tpope/vim-surround.git
+[submodule "vim/.vim/bundle/gundo"]
+	path = vim/.vim/bundle/gundo
+	url = git://github.com/sjl/gundo.vim.git
+[submodule "vim/.vim/bundle/ctrlp"]
+	path = vim/.vim/bundle/ctrlp
+	url = git://github.com/kien/ctrlp.vim
+[submodule "vim/.vim/bundle/repeat"]
+	path = vim/.vim/bundle/repeat
+	url = git://github.com/tpope/vim-repeat.git
+[submodule "vim/.vim/bundle/ack"]
+	path = vim/.vim/bundle/ack
+	url = git://github.com/mileszs/ack.vim.git
+[submodule "vim/.vim/bundle/multiple-cursors"]
+	path = vim/.vim/bundle/multiple-cursors
+	url = git://github.com/terryma/vim-multiple-cursors.git
+[submodule "vim/.vim/bundle/gocode"]
+	path = vim/.vim/bundle/gocode
+	url = https://github.com/Blackrush/vim-gocode.git
+[submodule "vim/.vim/bundle/vim-go"]
+	path = vim/.vim/bundle/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "vim/.vim/bundle/YouCompleteMe"]
+	path = vim/.vim/bundle/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe.git
