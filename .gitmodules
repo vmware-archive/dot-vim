@@ -25,9 +25,6 @@
 [submodule "vim/.vim/bundle/vim-multiple-cursors"]
 	path = vim/.vim/bundle/vim-multiple-cursors
 	url = git://github.com/terryma/vim-multiple-cursors
-[submodule "vim/.vim/bundle/vim-gocode"]
-	path = vim/.vim/bundle/vim-gocode
-	url = https://github.com/Blackrush/vim-gocode
 [submodule "vim/.vim/bundle/vim-go"]
 	path = vim/.vim/bundle/vim-go
 	url = https://github.com/fatih/vim-go

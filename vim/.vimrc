@@ -146,6 +146,7 @@ noremap <C-l> <C-w>l
 noremap <leader>v <C-w>v
 
 noremap <leader>V V`]
+nnoremap <leader>e :CtrlPBuffer<cr>
 
 nnoremap <leader><space> :noh<cr>
 
@@ -242,3 +243,5 @@ au Filetype go nnoremap <leader>r :GoRun %<CR>
 au Filetype go nnoremap <leader>gv :vsp <CR>:exe "GoDef" <CR>
 au Filetype go nnoremap <leader>gs :sp <CR>:exe "GoDef"<CR>
 au Filetype go nnoremap <leader>gt :tab split <CR>:exe "GoDef"<CR>
+
+let g:ctrlp_working_path_mode = '0'
