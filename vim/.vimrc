@@ -241,6 +241,8 @@ au Filetype go nnoremap <buffer> <leader>i :exe 'GoImport ' . expand('<cword>')<
 au Filetype go nnoremap <leader>r :GoRun %<CR>
 
 au Filetype go nnoremap <leader>gv :vsp <CR>:exe "GoDef" <CR>
+au Filetype go nnoremap <leader>go :GoDef<CR>
+
 au Filetype go nnoremap <leader>gs :sp <CR>:exe "GoDef"<CR>
 au Filetype go nnoremap <leader>gt :tab split <CR>:exe "GoDef"<CR>
 
