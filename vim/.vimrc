@@ -122,6 +122,10 @@ imap <C-c> <esc>,c<space>
 nmap <C-c> ,c<space>
 vmap <C-c> ,c<space>
 
+imap <D-/> <esc>,c<space>
+nmap <D-/> ,c<space>
+vmap <D-/> ,c<space>
+
 inoremap <c-cr> <esc>A<cr>
 inoremap <s-cr> <esc>A:<cr>
 
