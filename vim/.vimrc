@@ -251,3 +251,5 @@ au Filetype go nnoremap <leader>gs :sp <CR>:exe "GoDef"<CR>
 au Filetype go nnoremap <leader>gt :tab split <CR>:exe "GoDef"<CR>
 
 let g:ctrlp_working_path_mode = '0'
+
+map <leader>n :NERDTreeToggle<CR>
