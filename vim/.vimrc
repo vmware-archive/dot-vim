@@ -146,7 +146,7 @@ noremap <C-l> <C-w>l
 noremap <leader>v <C-w>v
 
 noremap <leader>V V`]
-nnoremap <leader>e :CtrlPBuffer<cr>
+nnoremap <leader>e :CtrlPMRU<cr>
 
 nnoremap <leader><space> :noh<cr>
 
