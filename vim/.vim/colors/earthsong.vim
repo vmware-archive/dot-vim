@@ -17,12 +17,14 @@ syntax reset
 hi Cursor      guibg=#cc4455  guifg=white     ctermbg=4 ctermfg=15
 hi link CursorIM Cursor
 hi Normal      guibg=#36312C  guifg=#EBD1B7    gui=none ctermbg=0 ctermfg=15
-hi NonText     guibg=#445566  guifg=#EBD1B7   ctermbg=8 ctermfg=14
+hi NonText     guibg=#36312C  guifg=#EBD1B7   ctermbg=8 ctermfg=14
 hi Visual      guibg=#557799  guifg=white    gui=none ctermbg=9 ctermfg=15
+
+hi CursorLine guibg=#47423D
 
 hi Linenr      guibg=bg       guifg=#aaaaaa  gui=none ctermbg=bg ctermfg=7
 
-hi Directory   guibg=bg       guifg=#337700  gui=none ctermbg=bg ctermfg=10
+hi Directory   guibg=bg       guifg=#95CC5E  gui=none ctermbg=bg ctermfg=10
 
 hi IncSearch   guibg=#0066cc  guifg=white    gui=none ctermbg=1 ctermfg=15
 hi link Seach IncSearch
