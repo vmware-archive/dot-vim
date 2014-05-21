@@ -118,10 +118,6 @@ noremap L $
 
 nnoremap <silent> <leader>? :execute "Ack! '" . substitute(substitute(substitute(@/, "\\\\<", "\\\\b", ""), "\\\\>", "\\\\b", ""), "\\\\v", "", "") . "'"<CR>
 
-imap <C-/> <esc>,c<space>
-nmap <C-/> ,c<space>
-vmap <C-/> ,c<space>
-
 imap <D-/> <esc>,c<space>
 nmap <D-/> ,c<space>
 vmap <D-/> ,c<space>
