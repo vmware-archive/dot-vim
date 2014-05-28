@@ -21,6 +21,10 @@ hi NonText     guibg=#36312C  guifg=#EBD1B7   ctermbg=8 ctermfg=14
 hi Visual      guibg=#557799  guifg=white    gui=none ctermbg=9 ctermfg=15
 
 hi CursorLine guibg=#47423D
+hi ColorColumn guibg=#47423D
+
+hi Pmenu guibg=#47423D
+hi PmenuSel guibg=#cc4455
 
 hi Linenr      guibg=bg       guifg=#aaaaaa  gui=none ctermbg=bg ctermfg=7
 
@@ -38,7 +42,7 @@ hi link  MoreMsg     ModeMsg
 hi Question    guibg=bg guifg=#95CC5E   ctermbg=bg ctermfg=10
 hi link  WarningMsg  ErrorMsg
 
-hi StatusLine     guibg=#ffeecc  guifg=black     ctermbg=14 ctermfg=0
+hi StatusLine     guibg=black guifg=#ffeecc  ctermbg=14 ctermfg=0
 hi StatusLineNC   guibg=#cc4455  guifg=white    gui=none ctermbg=4  ctermfg=11
 hi VertSplit      guibg=#cc4455  guifg=white    gui=none ctermbg=4  ctermfg=11
 
@@ -103,4 +107,4 @@ hi link htmlH6 htmlH5
 " And finally.
 
 let g:colors_name = "Earthsong"
-let colors_name   = "theme.name"
+let colors_name   = "Earthsong"

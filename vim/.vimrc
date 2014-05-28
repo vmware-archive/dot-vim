@@ -15,7 +15,7 @@ set sidescroll=1
 set sidescrolloff=10
 
 if has("gui_running")
-    colorscheme Tomorrow-Night
+    colorscheme earthsong
     set guioptions-=T
     set guioptions-=m
     set guioptions-=r
