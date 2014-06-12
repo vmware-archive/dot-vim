@@ -39,7 +39,6 @@ set ignorecase
 set smartcase
 set incsearch
 set hlsearch
-set gdefault
 
 set virtualedit+=block
 
