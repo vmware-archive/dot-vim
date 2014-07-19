@@ -126,8 +126,6 @@ inoremap <s-cr> <esc>A:<cr>
 
 nmap ' `
 
-nnoremap ; :
-
 vmap Q gq
 nmap Q gqap
 
